@@ -69,4 +69,4 @@ All demo recordings are synthetic: scripted meetings recorded by the team. No re
 - Voice questions are limited to 30 seconds.
 
 ## Team
-Built by TEAMMATE-1 and TEAMMATE-2.
+Built by Lakshya Yarlagadda and Laasya Yarlagadda.
